@@ -1,9 +1,58 @@
-This is the front end repo for a simple quiz game,using React, a random country will be displayed and there are 3 answer options for you to pick from. Click on the capital of the country given that you think is the right answer, it will then tell you if you are correct or not. You also have the option to exit the game. You can access the game by clicking on the following link:
-http://localhost:3000
+# CountriesGame Frontend
+
+This is the front end repo for a simple quiz game using React. A random country will be displayed and there are 3 answer options for you to pick from. Click on the capital of the country given that you think is the right answer, and it will then tell you if you are correct or not. You also have the option to exit the game.
+
+## Accessing the Game
+
+You can access the game by running the frontend server and navigating to:
+[http://localhost:3000](http://localhost:3000)
+
 Enjoy playing the game!
-# Getting Started with Create React App
+
+## Prerequisites
+
+Before setting up the frontend, ensure that you have the backend server running. Follow these steps to set up the backend:
+
+1. **Clone the backend repository:**
+    ```sh
+    git clone https://github.com/meesha94/CountiresGame.git
+    cd CountiresGame
+    ```
+
+2. **Install backend dependencies:**
+    ```sh
+    npm install
+    ```
+
+3. **Start the backend server:**
+    ```sh
+    npm start
+    ```
+
+The backend will run on `http://localhost:8000` by default.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Cloning and Running the Frontend
+
+1. **Clone the frontend repository:**
+    ```sh
+    git clone https://github.com/meesha94/countries-frontend.git
+    ```
+
+2. **Install frontend dependencies:**
+    ```sh
+    npm install
+    ```
+
+3. **Start the frontend server:**
+    ```sh
+    npm start
+    ```
+
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Available Scripts
 
@@ -11,7 +60,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
@@ -48,32 +97,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# countries-frontend
-# techtest-frontend
-# techtest-frontend
-# techtest-frontend
-# countries-frontend
-# countries-frontend
