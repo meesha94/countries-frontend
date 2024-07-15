@@ -1,3 +1,6 @@
+This is the front end repo for a simple quiz game,using React, a random country will be displayed and there are 3 answer options for you to pick from. Click on the capital of the country given that you think is the right answer, it will then tell you if you are correct or not. You also have the option to exit the game. You can access the game by clicking on the following link:
+http://localhost:3000
+Enjoy playing the game!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # techtest-frontend
 # techtest-frontend
 # techtest-frontend
+# countries-frontend
 # countries-frontend
